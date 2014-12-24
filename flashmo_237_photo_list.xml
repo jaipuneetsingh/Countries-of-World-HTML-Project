@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+
+	<config 
+		auto_play="true"
+		auto_play_duration="2.2" 
+		previous_button="true"
+		next_button="true"
+		slide_direction="left"
+		tween_duration="0.5"
+		tween_effect="easeInOutQuad">
+	</config>
+	
+	<photo>
+		<filename>photos/flashmo_940x400_01.jpg</filename>
+		<url>http://www.flashmo.com/page/1</url> 
+		<target>_self</target>
+	</photo>
+	
+	<photo>
+		<filename>photos/flashmo_940x400_05.jpg</filename>
+		<url>http://www.flashmo.com/page/2</url> 
+		<target>_parent</target>		
+	</photo>
+	
+	<photo>
+		<filename>photos/flashmo_940x400_09.jpg</filename>
+		<url>http://www.flashmo.com/contact</url> 
+		<target>_self</target>
+	</photo>
+	
+	<photo>
+		<filename>photos/flashmo_940x400_10.jpg</filename>
+		<url>http://www.flashmo.com/donate</url> 
+		<target>_blank</target>	
+	</photo>
+	
+	<photo>
+		<filename>photos/flashmo_940x400_14.jpg</filename>
+		<url>http://www.flashmo.com/store</url> 
+		<target>_parent</target>	
+	</photo>
+	<photo>
+		<filename>photos/scene001.jpg</filename>
+		<url>http://www.flashmo.com/page/1</url> 
+		<target>_self</target>
+	</photo>
+	<photo>
+		<filename>photos/scene004.jpg</filename>
+		<url>http://www.flashmo.com/page/1</url> 
+		<target>_self</target>
+	</photo>
+	<photo>
+		<filename>photos/scene005.jpg</filename>
+		<url>http://www.flashmo.com/page/1</url> 
+		<target>_self</target>
+	</photo>
+	<photo>
+		<filename>photos/scene006.jpg</filename>
+		<url>http://www.flashmo.com/page/1</url> 
+		<target>_self</target>
+	</photo>
+	<photo>
+		<filename>photos/scene007.jpg</filename>
+		<url>http://www.flashmo.com/page/1</url> 
+		<target>_self</target>
+	</photo>
+	
+</photos>
